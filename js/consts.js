@@ -1,5 +1,12 @@
 const START_STATE = 0;
 
+var gameWidth = 1500;
+var gameHeight = 1000;
+var centerX = gameWidth / 2;
+var centerY = gameHeight / 2;
+var heroSpeed = 4;
+
+
 var pubColor = [
     '#800000',
     '#802000',
