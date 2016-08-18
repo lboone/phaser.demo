@@ -4,7 +4,8 @@ var gameWidth = 1500;
 var gameHeight = 1000;
 var centerX = gameWidth / 2;
 var centerY = gameHeight / 2;
-var heroSpeed = 4;
+var heroSpeed = 6;
+var heroTopY = 911.75;
 
 
 var pubColor = [
