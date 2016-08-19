@@ -10,3 +10,27 @@ game.state.add('state7',demo.state7);
 game.state.add('state8',demo.state8);
 game.state.add('state9',demo.state9);
 game.state.start(pubStates[START_STATE]);
+
+
+var vals = [
+	{
+		name: 'Lloyd',
+		age: 45,
+	},
+	{
+		name: 'Melissa',
+		age: 41,
+	},
+	{
+		name: 'Julius',
+		age: 13,
+	},
+	{
+		name: 'Brianna',
+		age: 11,
+	},
+	{
+		name: 'Alana',
+		age: 8,
+	}
+];
